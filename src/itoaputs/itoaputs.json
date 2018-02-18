@@ -1,0 +1,6 @@
+{
+  "testname": "puts to snprintf to puts",
+  "expectedret": 0,
+  "expectedstdout": "hello\n",
+  "expectedstderr": ""
+}
