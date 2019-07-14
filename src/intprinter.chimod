@@ -340,7 +340,7 @@
       "nodes": {
         "856cba7e-59b5-4172-9b36-783581cde081": {
           "data": {
-            "code": "#include <stdio.h>\n\nvoid intprinter_printfloat(float f) {\n\tprintf(\"%f\", f);\n}",
+            "code": "#include <stdio.h>\n\nvoid intprinter_printfloat(double f) {\n\tprintf(\"%f\", f);\n}",
             "extraflags": [],
             "function": "intprinter_printfloat",
             "inputs": [
